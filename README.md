@@ -1,2 +1,2 @@
-# Customer-Analysis-Dashboard
-I developed a project in Power BI , creating multiple dashboards to analyze the Customer Analytics data .This process involved several stages ,including Data preprocessing and Data visualization.
+#Project Objective
+A store needs to analyse the sales report of their store which is located in 5 - different cities .They have the data of top loyalty customers of their stores.By analyzing the data the owner can understand which city is top most and which  city need to improve its sales
