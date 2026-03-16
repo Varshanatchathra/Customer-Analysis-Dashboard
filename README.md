@@ -12,10 +12,10 @@ A store needs to analyse the sales report of their store which is located in 5 -
 - Analyze repeat customers vs purchase value.
 - Dashboard Interaction <a ref="https://github.com/Varshanatchathra/Customer-Analysis-Dashboard/blob/main/Power%20BI%20Desktop%2016-03-2026%2011_40_14%20AM.png"> View Dashboard</a>
 -Dashboard Interaction <a ref="https://github.com/Varshanatchathra/Customer-Analysis-Dashboard/blob/main/Power%20BI%20Desktop%2016-03-2026%2011_58_45%20AM.png"> View Dashboard</a>
+
 ## Process
--Verify data for any missing values and sort out the same
+- Verify data for any missing values and sort out the same.
 -Created visuals according to the questions asked.
 -Used column chart,bar chart, pie chart,line chart and applied slicers to make it dynamic.
 
-## Dashboard
 
