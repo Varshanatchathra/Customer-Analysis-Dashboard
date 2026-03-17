@@ -19,6 +19,11 @@ A store needs to analyse the sales report of their store which is located in 5 -
 - Created visuals according to the questions asked.
 - Used column chart,bar chart, pie chart,line chart and applied slicers to make it dynamic.
 
+## Dashboard
+<img width="1227" height="688" alt="Power BI Desktop 16-03-2026 11_40_14 AM" src="https://github.com/user-attachments/assets/c713ff1c-a554-46f9-919f-0d87d2412e43" />
+<img width="1235" height="694" alt="Power BI Desktop 16-03-2026 11_58_45 AM" src="https://github.com/user-attachments/assets/6fc67d7c-38cd-49fd-ba26-2428f39fd596" />
+
+
 ## Project Insight
 - There are totally 10 customers.
 - Chennai city contributed the Highest Revenue.
